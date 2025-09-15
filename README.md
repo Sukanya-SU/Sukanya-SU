@@ -2,7 +2,7 @@
 - 👀 I’m a Biomedical Engineer
 - 🌱 I’m  a beginner in coding and now I am  started to learn datascience using python 
 - 💞️ I’m would like to share my progress and interested to collaborate with different projects
-- 📫 Please share your commends through mail:sukanyasudarsana@gmail.com
+- 📫 Please share your commends through mail:sukanyasumesh11@gmail.com
 - Thank you 
 
 <!---
